@@ -1,1 +1,1 @@
-# SQL-Python-Ecommerce-Project
+# A python and SQL ecommerce project for Data Analytics
